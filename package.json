@@ -1,14 +1,17 @@
 {
   "name": "html-footer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bottom footer by using flexbox css",
   "main": "index.js",
   "scripts": {
     "start": "serve ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "flexbox",
+    "footer",
+  ],
+  "author": "Maksim Kostromin aka daggerok",
+  "license": "MIT",
   "devDependencies": {
     "resetcss": "1.0.3",
     "serve": "10.1.2"
