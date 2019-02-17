@@ -1,6 +1,10 @@
 # bottom footer css
 By using flexbox
 
+[Demo](https://daggerok.github.io/html-footer/)
+
+_index.html_
+
 ```html
 <html lang="en">
   <head>
