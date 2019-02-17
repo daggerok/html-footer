@@ -1,0 +1,16 @@
+{
+  "name": "html-footer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "resetcss": "1.0.3",
+    "serve": "10.1.2"
+  }
+}
