@@ -1,4 +1,4 @@
-# HTML footer css
+# bottom footer css
 By using flex
 
 ```html
