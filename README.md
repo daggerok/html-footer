@@ -1,5 +1,5 @@
 # bottom footer css
-By using flex
+By using flexbox
 
 ```html
 <html lang="en">
