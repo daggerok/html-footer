@@ -19,7 +19,7 @@ By using flex
   <body class="app">
     <nav>navbar is here</nav>
     <div class="app-content">
-      Site main content is here
+      main site content is here
     </div>
     <footer>footer is here</footer>
   </body>
